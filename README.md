@@ -13,7 +13,7 @@ Screen
 Installation
 ---
 ```
-$ git clone https://github.com/m4ll0k/Atlas.git atlas
+$ git clone https://github.com/trhacknon/Atlas.git atlas
 $ cd atlas
 $ python atlas.py # python3+
 ```
