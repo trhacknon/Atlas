@@ -2,7 +2,8 @@
 # -*- coding:utf-8 -*-
 # -----------------------------------------
 # Atlas - Quick SQLMap Tamper Suggester
-# by M'hamed ("m4ll0k") Outaadi 
+# dev by M'hamed ("m4ll0k") Outaadi 
+# Modded by trhacknon ("trhacknon") anonymous 
 # -----------------------------------------
 
 import re
@@ -155,8 +156,8 @@ class atlas(object):
 		print(r"  __ _| |_| | __ _ ___            ")
 		print(r" / _` | __| |/ _` / __|           ")
 		print(r"| (_| | |_| | (_| \__ \ v.1.0     ")
-		print(r" \__,_|\__|_|\__,_|___/ by M4ll0k ")
-		print(r"                                  ")
+		print(r" \__,_|\__|_|\__,_|___/ by        ")
+		print(r"                        trhacknon ")
 		print(r" Quick SQLMap Tamper Suggester    ")
 		print(r"-----------------------------------")
 		if(_):sys.exit(0)
